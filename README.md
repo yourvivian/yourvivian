@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Vivian 👋
 
 <!--
 **yourvivian/yourvivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a International Studies major with a special interest in technology. My widest dream is to become an accomplished tech entrepreneur and writer. But let's go with the flow for the time being.
+- 🌱 I’m currently learning web development and UX design.
+- 👯 I’m looking to collaborate on... anything, really.
+- 💬 Ask me about web development, social entrepreneurship, applied technology (and Harry Potter).
+- 😄 Pronouns: she/her/hers.
+- ⚡ Fun fact: As I set my LinkedIn intro as "aspiring tech entrepreneur" (tho without a slightest idea of how to get there), cool tech gurus reach out to me. Let's see where I am after 10 years.
