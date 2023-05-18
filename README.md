@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an Economics major passionate about finance, mathematics, and data science. My widest dream is to be a part of tech products that transform people's lives.
+I'm an Economics major passionate about finance, mathematics, and data science. I am considerting working investment/finance or pursue research in economics/data science. In my 30s, my widest dream is to be a part of tech products that transform people's lives.
 - 🌱 I’m currently learning finance, data science, and programming.
 - 👯 I’m looking to collaborate on... anything, really.
-- 💬 Ask me about machine learning in economics research and social entrepreneurship.
 - 😄 Pronouns: she/her/hers.
