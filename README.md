@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a CS & Econ sophpmore passionate about programming and finance. I am looking to better my skills to land SWE-related opportunities. In my 30s, my widest dream is to lead tech products that transform people's lives.
+I'm a CS & Econ sophomore passionate about programming and finance. I am looking to better my skills to land SWE-related opportunities. In my 30s, my widest dream is to lead tech products that transform people's lives.
 - 🌱 I’m currently leetcoding daily and build personal projects.
 - 👯 I’m looking to collaborate on... anything, really.
 - 😄 Pronouns: she/her/hers.
