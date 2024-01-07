@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an Economics major passionate about finance, mathematics, and data science. I am considerting working investment/finance or pursue research in economics/data science. In my 30s, my widest dream is to be a part of tech products that transform people's lives.
-- 🌱 I’m currently learning finance, data science, and programming.
+I'm a CS & Econ sophpmore passionate about programming and finance. I am looking to better my skills to land SWE-related opportunities. In my 30s, my widest dream is to lead tech products that transform people's lives.
+- 🌱 I’m currently leetcoding daily and build personal projects.
 - 👯 I’m looking to collaborate on... anything, really.
 - 😄 Pronouns: she/her/hers.
