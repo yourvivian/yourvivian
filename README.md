@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a CS & Econ sophomore passionate about programming and finance. I am looking to better my skills to land SWE-related opportunities. In my 30s, my widest dream is to lead tech products that transform people's lives.
-- 🌱 I’m currently leetcoding daily and build personal projects.
-- 👯 I’m looking to collaborate on... anything, really.
-- 😄 Pronouns: she/her/hers.
+I'm a CS junior passionate about building software. I'm always looking to level up my skills through internships, fellowships, and open-source contributions. Down the road, I want to lead tech products that transform lives.
+- 🌱 Previously, I built a mobile app to transform group travelling, [Tourific](https://github.com/trihoang0809/tourific). Currently, I'm working on expanding a card game (Love Letters) and contributing to a Chrome extension for LeetCode (launch this summer!).
+- 👯 I’m looking for contributing in open-source projects and join tech fellowships.
+- 💬 Ask me about self-studying and interview prep!
+- ⚡ Fun fact: I self-studied coding for a year (my previous college didn’t have CS) and landed internships in tech. I believe in *making it happen*!
