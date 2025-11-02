@@ -1,4 +1,4 @@
-### Hi I'm Van 👋
+### Hi 👋
 I'm a CS senior passionate about building software. I'm always looking to level up my skills through internships, fellowships, and open-source contributions. Down the road, I want to lead tech products that transform lives.
 
 <table>
